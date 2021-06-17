@@ -1,0 +1,11 @@
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    background: beige;
+    padding: 1rem;
+    flex-direction: column;
+}
+.youtube-container{
+    width: 100%;
+}

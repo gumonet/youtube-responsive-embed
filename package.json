@@ -1,0 +1,21 @@
+{
+  "name": "youtube-responsive-embed",
+  "version": "1.0.0",
+  "description": "Embed youtube videos with responsive view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-gumonet:gumonet/youtube-responsive-embed.git"
+  },
+  "keywords": [
+    "youtube",
+    "responsive",
+    "javascript",
+    "embed"
+  ],
+  "author": "gumonet",
+  "license": "ISC"
+}
